@@ -1,0 +1,13 @@
+/* Add your styles here */
+h1{
+  color:crimson;
+}
+
+.image{
+  width: 1000px;
+}
+
+.fila2{
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
